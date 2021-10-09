@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vatsa
+Build-Jdk: 16.0.1
+Implementation-Title: UrlShortenerService
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.test.urlshortener
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/UrlShortenerService
+Created-By: Maven Integration for Eclipse
+
